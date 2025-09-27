@@ -1,2 +1,1 @@
-# .github
-Medialoco LLC GitHub profile: organization overview.
+# Medialoco LLC
